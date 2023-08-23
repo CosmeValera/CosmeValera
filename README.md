@@ -10,7 +10,7 @@ I enjoy everything related to software and the people who create it. I strongly 
 
 #### ✍️ Website & Projects
 
-I love making new stuff, that's why I created a [blog](https://cosmevalera.github.io/). There I will share a bit about my professional profile. This platform will also serve as a hub for my projects, allowing you to explore and engage with my work.
+I love making new stuff, that's why I created a [portfolio](https://cosmevalera.github.io/). There I will share a bit about my professional profile. This platform will also serve as a hub for my projects, allowing you to explore and engage with my work.
 
 <!--
 **CosmeValera/CosmeValera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
