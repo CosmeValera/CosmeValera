@@ -1,4 +1,4 @@
-### Hi there! I am Cosme.
+### Hi there! I am Cosme 😼
 
 ---
 
