@@ -15,7 +15,7 @@
 - [**Bitcoin Finance Lab**](https://bitcoin-finance-lab.cosmevalera.dev/) — **Vue 3** financial comparison tool visualizing Bitcoin performance against treasury stocks and market indices.
 
 ### ✍️ Website
-Check out my [portfolio](https://cosmevalera.dev/) for my professional profile, [projects](https://cosmevalera.dev/projects/), and [blog](https://cosmevalera.dev/blog/).
+Check out my [portfolio](https://cosmevalera.dev/) for my professional profile, [projects](https://cosmevalera.dev/projects/), and [blog](https://cosmevalera.dev/blog/) (there I talk about frontend, devops, finance and other topics).
 
 <!--
 **CosmeValera/CosmeValera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
