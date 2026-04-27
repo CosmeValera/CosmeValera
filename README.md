@@ -11,7 +11,7 @@
 ### 🔧 Projects
 
 - [**AquaMesh**](https://aquamesh.cosmevalera.dev/) — No-code drag-and-drop **React** platform for creating interactive dashboards.
-- [**DevOps Lab**](https://bashunit.typeddevs.com/) — Complete **DevOps** pipeline with containerization, orchestration, and CI/CD automation.
+- [**DevOps Lab**](https://devopslab.cosmevalera.dev/) — Complete **DevOps** pipeline with containerization, orchestration, and CI/CD automation.
 - [**Bitcoin Finance Lab**](https://bitcoin-finance-lab.cosmevalera.dev/) — **Vue 3** financial comparison tool visualizing Bitcoin performance against treasury stocks and market indices.
 
 ### ✍️ Website
