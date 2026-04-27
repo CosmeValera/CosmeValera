@@ -1,16 +1,27 @@
-### Hi there! I am Cosme 😼
+<h1 align="center">Hi there, I'm
+  <a href="https://cosmevalera.dev/" target="_blank">Cosme</a> 😼
+</h1>
 
 ---
 
-#### 🧑 About Me
+### 🧑 About Me
 
-I enjoy everything related to software and the people who create it. I strongly advocate for clean code and agile practices. I am ambitious, organized and able to learn quickly.
+- 💻 Software developer since **2020**.
+- ⭐ I strongly advocate for clean code and agile practices.
+- 🌱 [Always learning](https://github.com/CosmeValera/cosme-dev-wiki), always sharing.
 
 ---
 
-#### ✍️ Website & Projects
+### 🔧 Projects
 
-I love making new stuff, that's why I created a [portfolio](https://cosmevalera.github.io/). There I share a bit about my professional profile. This platform also serves as a hub for my projects, allowing you to explore and engage with my work. As well as a personal blog where I dive into topics related to frontend along with other subjects.
+- [**AquaMesh**](https://aquamesh.cosmevalera.dev/) — No-code drag-and-drop **React** platform for creating interactive dashboards.
+- [**DevOps Lab**](https://bashunit.typeddevs.com/) — Complete **DevOps** pipeline with containerization, orchestration, and CI/CD automation.
+- [**Bitcoin Finance Lab**](https://bitcoin-finance-lab.cosmevalera.dev/) — **Vue 3** financial comparison tool visualizing Bitcoin performance against treasury stocks and market indices.
+
+---
+
+### ✍️ Website
+Check out my [portfolio](https://cosmevalera.dev/) for my professional profile, [projects](https://cosmevalera.dev/projects/), and [blog](https://cosmevalera.dev/blog/).
 
 <!--
 **CosmeValera/CosmeValera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
